@@ -2,7 +2,7 @@
 
 ## Section 1: Introduction to Concepts
 
-[ ] Lesson 1: What is a Network?
+- [x] Lesson 1: What is a Network?
 
 ### 1.1 Intro
 
