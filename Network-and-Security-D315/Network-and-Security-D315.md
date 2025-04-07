@@ -1,10 +1,28 @@
 # Network and Security - D315
 
-## Section 1: Introduction to Concepts
+## Course Introduction
+
+### Prerequisites
+
+This course has no prerequisites.
+
+### Course Competencies
+
+**Competency 4014.2.1: Identifies Basic Network Systems and Concepts**  
+
+The learner identifies basic network systesm and concepts related to networking technologies.
+
+**Competency 4014.2.2: Applies Network Security Concept**
+
+The learner applies network security concepts for business contin
+
+## Section 1: Introduction to Networking Concepts
 
 - [x] Lesson 1: What is a Network?
 
-### 1.1 Intro
+### 1.1 Introduction
+
+
 
 ### 1.2 Network History
 
