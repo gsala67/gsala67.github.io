@@ -14,7 +14,17 @@ The learner identifies basic network systesm and concepts related to networking 
 
 **Competency 4014.2.2: Applies Network Security Concept**
 
-The learner applies network security concepts for business contin
+The learner applies network security concepts for business continuity, data access, and confidentiality.
+
+**Competency 4014.2.3: Identifies Network Security Solutions**
+
+The learner identifies solutions for compliance with security guidance.
+
+####  Additional Resources
+
+n/a
+
+---
 
 ## Section 1: Introduction to Networking Concepts
 
