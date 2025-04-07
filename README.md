@@ -1,9 +1,8 @@
-# West Governers Uni
+# West Governers University
 
-## Semester 3
+## April 2025
 
-## [IT Leadership Foundations - D370](./Internet-of-Things-IoT-and-Infrastructure-D337/Internet-of-Things-IoT-and-Infrastructure-D337.md)
-
+---
 
 ## [Network and Security - Foundations - D315](./Network-and-Security-D315/Network-and-Security-D315.md)
 
@@ -28,11 +27,17 @@
     + Lesson 5: Security Governanace
     + Section 3: Summary
 
+---
+
 ## [Scripting and Programming - Foundations - D278](./Scripting-and-Programming-D278/Scripting-and-Programming-D278.md)
 
+---
 
 ## [Internet of Things (IoT) and Infrastructure - D337](./Internet-of-Things-IoT-and-Infrastructure-D337/Internet-of-Things-IoT-and-Infrastructure-D337.md)
 
+---
+
+## [IT Leadership Foundations - D370](./Internet-of-Things-IoT-and-Infrastructure-D337/Internet-of-Things-IoT-and-Infrastructure-D337.md)
 
 ---
 
