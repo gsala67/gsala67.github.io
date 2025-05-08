@@ -1,0 +1,65 @@
+# Lesson 3: Networking Standards and Models
+
+Learning different standards
+
+802.11 (commonly known as Wi-Fi) are a set of protocols developed by the IEEE to govern wireless LAN communications and include popular versions, like 802.11a, b, g, n, and ac, each offering varying bandwidth and frequency capabilities.
+
+Ethernet standards, on the other hand, dictate wired network comms and have varieties, such as 10BASE-T (10 Mbps), 100BASE-TX (Fast Ethernet at 100 Mbps),
+and 1000BASE-T (Gigabit Ethernet at 1 Gbps).
+
+Comparatively, the OSI model and the TCP/IP stack serve as conceptual freamworks for understanding network interactions. The OSI model breaking into seven layers, and TCP/IP stack simplifies this into four layers;
+
+* link
+* internet
+* transport
+* application
+
+
+## 3.1 Standards
+
+
+### 802.11 Wireless
+
+* speed
+* transmission range
+* frequency
+
+802.11
+
+Came out in 1980 in February, hence the '80' and the '2' for Feb.
+
+### IEE 802.11
+
+* 1-2Mbps over 2.4 GHz frequency
+    + we'll only be dealing with 2.4Ghz and 5Ghz
+
+This is where the two biggest incompability comes into play, both these frequencies are incompatible with each other. Today's standards are 1-2Mbps are slow.
+
+### IEEE 802.11a
+
+Speed of up to 54 Mbps over 5GHz frequency. 'a' is much faster the its predecessor.
+
+### IEEE 802.11b
+
+Because of the incompability, they came out with 'b'. But 'b' is compatible with the original RFC. Which made it much more convenient at a slower speed (11Mbps)
+
+### IEEE 802.11g
+
+* 54Mbps
+* 2.4Ghz compatible with B and the original
+
+### IEEE 802.11ac
+
+* 433 Mbps to 1.3Gbps
+* way faster, only achievable over the 5Ghz, which discards compatibility
+
+### IEEE 802.11ax
+
+* Wi-Fi6
+* Next generation standard in WiFi technology.
+* Greater speeds and stability
+* Up to 14Gbps
+
+
+
+---
